@@ -1,0 +1,1 @@
+public enum TCodeRep{ERR_OK, ERR_PARTIE, ERR_COUP, ERR_TYP}

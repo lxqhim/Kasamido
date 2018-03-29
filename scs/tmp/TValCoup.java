@@ -1,0 +1,1 @@
+public enum TValCoup{ VALID, TIMEOUT, TRICHE } ;

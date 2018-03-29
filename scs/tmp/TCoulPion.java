@@ -1,0 +1,3 @@
+public enum TCoulPion{
+    ORANGE, BLEU, POURPRE, FUCHIA, JAUNE, ROUGE, VERT, MARON
+}
